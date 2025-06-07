@@ -31,16 +31,6 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 
 ---
 
-## 🚀 Featured Projects
-
-- **Brainwave** — Stunning UI/UX design built with React and Tailwind CSS, featuring smooth animations powered by Framer Motion.  
-- **Metaverse** — Immersive Next.js website combining futuristic design with responsive layouts and interactive elements.  
-- **Data Dashboard (Upcoming)** — Visualizing data trends with Python and Excel to create actionable insights.
-
-Check out more on my [GitHub](https://github.com/yourusername) and [LinkedIn](https://linkedin.com/in/yourprofile).
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: eng.usf.9.1@gmail.com  
