@@ -38,27 +38,32 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 - 🔗 LinkedIn: [Let's Connect](https://linkedin.com/in/yourprofile)
 
 ---
+---
 
-## Technologies I Use
+## 🧰 Tech Toolbox
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img align="left" alt="HTML5" width="40px" src="./html-1.svg" />
-    <img align="left" alt="CSS3" width="40px" src="./css-3.svg" />
-    <img align="left" alt="JavaScript" width="40px" src="./javascript-1.svg" />
-    <img align="left" alt="React" width="40px" src="./react-2.svg" />
-    <img align="left" alt="Tailwind CSS" width="40px" src="./tailwind-svgrepo-com.svg" />
-    <img align="left" alt="Bootstrap" width="40px" src="./bootstrap-svgrepo-com.svg" />
-    <img align="left" alt="SCSS" width="40px" src="./sass_logo_sass_icon.png" />
-    <img align="left" alt="Framer Motion" width="40px" src="./Framer-Motion.png" />
-  <img align="left" alt="Stastics" width="40px" src="./stas.png" />
-  <img align="left" alt="Charb" width="40px" src="./Csharp_Logo.png" />
-  <img align="left" alt="Microsoft Ex" width="40px" src="./Microsoft_Office.png" />
-  
-  <img align="left" alt="Next" width="40px" src="./Next.js.png" />
-  <img align="left" alt="Py" width="40px" src="./python.png" />
-  <img align="left" alt="sql" width="40px" src="./sql.webp" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+  <img src="./html-1.svg" alt="HTML5" title="HTML5" width="40px"/>
+  <img src="./css-3.svg" alt="CSS3" title="CSS3" width="40px"/>
+  <img src="./javascript-1.svg" alt="JavaScript" title="JavaScript" width="40px"/>
+  <img src="./react-2.svg" alt="React" title="React" width="40px"/>
+  <img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40px"/>
+  <img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" title="Bootstrap" width="40px"/>
+  <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" title="SCSS/SASS" width="40px"/>
+  <img src="./Framer-Motion.png" alt="Framer Motion" title="Framer Motion" width="40px"/>
+  <img src="./stas.png" alt="Statistics" title="Statistics" width="40px"/>
+  <img src="./Csharp_Logo.png" alt="C#" title="C#" width="40px"/>
+  <img src="./Microsoft_Office.png" alt="Microsoft Excel" title="Microsoft Excel" width="40px"/>
+  <img src="./Next.js.png" alt="Next.js" title="Next.js" width="40px"/>
+  <img src="./python.png" alt="Python" title="Python" width="40px"/>
+  <img src="./sql.webp" alt="SQL" title="SQL" width="40px"/>
+
 </div>
 
 ---
-Thanks for visiting my profile! Let's create something amazing together 🚀
 
+Thanks for visiting my profile!  
+💡 Let’s build something amazing together!
+
+---
