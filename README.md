@@ -51,11 +51,9 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 <img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./Framer-Motion.png" alt="Framer Motion" width="50" />&nbsp;&nbsp;&nbsp;
-
 <img src="./python.png" alt="Python" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./sql.webp" alt="SQL" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./stas.png" alt="Statistics" width="50" />&nbsp;&nbsp;&nbsp;
-
 <img src="./Csharp_Logo.png" alt="C#" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./Microsoft_Office.png" alt="Microsoft Excel" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./Next.js.png" alt="Next.js" width="70" />
@@ -66,7 +64,7 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 
 <div align="center">
 
-### Thanks for visiting my profile!  
+#### Thanks for visiting my profile!  
 💡 **Let’s build something amazing together!**
 
 </div>
