@@ -61,6 +61,7 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 </div>
 
 ---
-#### Thanks for visiting my profile!  💡 Let’s build something amazing together!
-
+<div align="center">
+##### Thanks for visiting my profile!  💡 Let’s build something amazing together!
+</div>
 
