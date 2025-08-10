@@ -34,7 +34,7 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 ## 📫 Contact Me
 
 - 📧 Email: eng.usf.9.1@gmail.com  
-- 📞 Phone: +20 10 155 200 12  
+- 📞 Phone: +20 10 311 030 58  
 - 🔗 LinkedIn: [Let's Connect](https://linkedin.com/in/yourprofile)
 
 ---
@@ -52,11 +52,11 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./Framer-Motion.png" alt="Framer Motion" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./python.png" alt="Python" width="50" />&nbsp;&nbsp;&nbsp;
-<img src="./sql.webp" alt="SQL" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./sql.webp" alt="SQL" width="90" />&nbsp;&nbsp;&nbsp;
 <img src="./stas.png" alt="Statistics" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./Csharp_Logo.png" alt="C#" width="50" />&nbsp;&nbsp;&nbsp;
 <img src="./Microsoft_Office.png" alt="Microsoft Excel" width="50" />&nbsp;&nbsp;&nbsp;
-<img src="./Next.js.png" alt="Next.js" width="70" />
+<img src="./Next.js.png" alt="Next.js" width="90" />
 
 </p>
 
@@ -64,7 +64,7 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 
 <div align="center">
 
-#### Thanks for visiting my profile!  
+### Thanks for visiting my profile!  
 💡 **Let’s build something amazing together!**
 
 </div>
