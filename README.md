@@ -42,8 +42,8 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 ## 🧰 Tech Toolbox
 
 <p >
-  <img src="./html-1.svg" alt="HTML5" width="40" style="margin: 0 15px;" />
-  <img src="./css-3.svg" alt="CSS3" width="40" style="margin: 0 15px;" />
+  <img src="./html-1.svg" alt="HTML5" width="40" style="margin: 0 30px;" />
+  <img src="./css-3.svg" alt="CSS3" width="40" style="margin: 0 30px;" />
   <img src="./javascript-1.svg" alt="JavaScript" width="40" style="margin: 0 15px;" />
   <img src="./react-2.svg" alt="React" width="40" style="margin: 0 15px;" />
   <img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" width="40" style="margin: 0 15px;" />
