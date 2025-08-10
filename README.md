@@ -52,6 +52,6 @@ I believe in blending creativity with logic, writing clean code, and continuousl
     <img align="left" alt="Framer Motion" width="40px" src="./Framer-Motion.png" />
 </div>
 
-
+<br/>
 Thanks for visiting my profile! Let's create something amazing together 🚀
 
