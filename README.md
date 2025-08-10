@@ -40,24 +40,23 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 ---
 
 ## 🧰 Tech Toolbox
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
 
-  <img src="./html-1.svg" alt="HTML5" title="HTML5" width="40px" style="margin: 20px;" />
-  <img src="./css-3.svg" alt="CSS3" title="CSS3" width="40px" style="margin: 20px;" />
-  <img src="./javascript-1.svg" alt="JavaScript" title="JavaScript" width="40px" style="margin: 20px;" />
-  <img src="./react-2.svg" alt="React" title="React" width="50px" style="margin: 20px;" />
-  <img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50px" style="margin: 20px;" />
-  <img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" title="Bootstrap" width="50px" style="margin: 20px;" />
-  <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" title="SCSS/SASS" width="50px" style="margin: 20px;" />
-  <img src="./Framer-Motion.png" alt="Framer Motion" title="Framer Motion" width="50px" style="margin: 20px;" />
-  <img src="./stas.png" alt="Statistics" title="Statistics" width="50px" style="margin: 20px;" />
-  <img src="./Csharp_Logo.png" alt="C#" title="C#" width="50px" style="margin: 20px;" />
-  <img src="./Microsoft_Office.png" alt="Microsoft Excel" title="Microsoft Excel" width="50px" style="margin: 20px;" />
-  <img src="./Next.js.png" alt="Next.js" title="Next.js" width="90px" style="margin: 20px;" />
-  <img src="./python.png" alt="Python" title="Python" width="50px" style="margin: 20px;"&nbsp;&nbsp;&nbsp; />
-  <img src="./sql.webp" alt="SQL" title="SQL" width="90px" style="margin: 20px;" />
-
-</div>
+<p >
+  <img src="./html-1.svg" alt="HTML5" width="40" style="margin: 0 15px;" />
+  <img src="./css-3.svg" alt="CSS3" width="40" style="margin: 0 15px;" />
+  <img src="./javascript-1.svg" alt="JavaScript" width="40" style="margin: 0 15px;" />
+  <img src="./react-2.svg" alt="React" width="40" style="margin: 0 15px;" />
+  <img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" width="40" style="margin: 0 15px;" />
+  <img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40" style="margin: 0 15px;" />
+  <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" width="40" style="margin: 0 15px;" />
+  <img src="./Framer-Motion.png" alt="Framer Motion" width="40" style="margin: 0 15px;" />
+  <img src="./stas.png" alt="Statistics" width="40" style="margin: 0 15px;" />
+  <img src="./Csharp_Logo.png" alt="C#" width="40" style="margin: 0 15px;" />
+  <img src="./Microsoft_Office.png" alt="Microsoft Excel" width="40" style="margin: 0 15px;" />
+  <img src="./Next.js.png" alt="Next.js" width="40" style="margin: 0 15px;" />
+  <img src="./python.png" alt="Python" width="40" style="margin: 0 15px;" />
+  <img src="./sql.webp" alt="SQL" width="40" style="margin: 0 15px;" />
+</p>
 
 
 ---
