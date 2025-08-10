@@ -55,7 +55,7 @@ I believe in blending creativity with logic, writing clean code, and continuousl
   <img src="./stas.png" alt="Statistics" title="Statistics" width="40px"/>
   <img src="./Csharp_Logo.png" alt="C#" title="C#" width="40px"/>
   <img src="./Microsoft_Office.png" alt="Microsoft Excel" title="Microsoft Excel" width="40px"/>
-  <img src="./Next.js.png" alt="Next.js" title="Next.js" width="40px"/>
+  <img src="./Next.js.png" alt="Next.js" title="Next.js" width="80px"/>
   <img src="./python.png" alt="Python" title="Python" width="40px"/>
   <img src="./sql.webp" alt="SQL" title="SQL" width="40px"/>
 
