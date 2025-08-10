@@ -44,20 +44,20 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-  <img src="./html-1.svg" alt="HTML5" title="HTML5" width="40px"/>
+  <img src="./html-1.svg" alt="HTML5" title="HTML5" width="40px" style="margin: 8px;" />
   <img src="./css-3.svg" alt="CSS3" title="CSS3" width="40px"/>
   <img src="./javascript-1.svg" alt="JavaScript" title="JavaScript" width="40px"/>
   <img src="./react-2.svg" alt="React" title="React" width="40px"/>
   <img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40px"/>
   <img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" title="Bootstrap" width="40px"/>
-  <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" title="SCSS/SASS" width="40px"/>
-  <img src="./Framer-Motion.png" alt="Framer Motion" title="Framer Motion" width="40px"/>
-  <img src="./stas.png" alt="Statistics" title="Statistics" width="40px"/>
-  <img src="./Csharp_Logo.png" alt="C#" title="C#" width="40px"/>
-  <img src="./Microsoft_Office.png" alt="Microsoft Excel" title="Microsoft Excel" width="40px"/>
-  <img src="./Next.js.png" alt="Next.js" title="Next.js" width="80px"/>
-  <img src="./python.png" alt="Python" title="Python" width="40px"/>
-  <img src="./sql.webp" alt="SQL" title="SQL" width="40px"/>
+  <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" title="SCSS/SASS" width="50px"/>
+  <img src="./Framer-Motion.png" alt="Framer Motion" title="Framer Motion" width="50px"/>
+  <img src="./stas.png" alt="Statistics" title="Statistics" width="50px"/>
+  <img src="./Csharp_Logo.png" alt="C#" title="C#" width="50px"/>
+  <img src="./Microsoft_Office.png" alt="Microsoft Excel" title="Microsoft Excel" width="50px"/>
+  <img src="./Next.js.png" alt="Next.js" title="Next.js" width="90px"/>
+  <img src="./python.png" alt="Python" title="Python" width="50px"/>
+  <img src="./sql.webp" alt="SQL" title="SQL" width="90px"/>
 
 </div>
 
