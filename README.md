@@ -46,17 +46,17 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 <img src="./html-1.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
 <img src="./css-3.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
 <img src="./javascript-1.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./react-2.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./Framer-Motion.png" alt="Framer Motion" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./stas.png" alt="Statistics" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./Csharp_Logo.png" alt="C#" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./Microsoft_Office.png" alt="Microsoft Excel" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./Next.js.png" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./python.png" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
-<img src="./sql.webp" alt="SQL" width="40" />
+<img src="./react-2.svg" alt="React" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./Framer-Motion.png" alt="Framer Motion" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./stas.png" alt="Statistics" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./Csharp_Logo.png" alt="C#" width="90" />&nbsp;&nbsp;&nbsp;
+<img src="./Microsoft_Office.png" alt="Microsoft Excel" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./Next.js.png" alt="Next.js" width="90" />&nbsp;&nbsp;&nbsp;
+<img src="./python.png" alt="Python" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./sql.webp" alt="SQL" width="90" />
 
 </p>
 
