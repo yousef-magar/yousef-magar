@@ -55,12 +55,11 @@ I believe in blending creativity with logic, writing clean code, and continuousl
   <img src="./Csharp_Logo.png" alt="C#" title="C#" width="50px"  style="margin: 15px;"/>
   <img src="./Microsoft_Office.png" alt="Microsoft Excel" title="Microsoft Excel" width="50px"  style="margin: 15px;"/>
   <img src="./Next.js.png" alt="Next.js" title="Next.js" width="90px"  style="margin: 15px;" />
-  <img src="./python.png" alt="Python" title="Python" width="50px"  style="margin: 15px;" />
+  <img src="./python.png" alt="Python" title="Python" width="50px"  style="padding: 15px;" />
   <img src="./sql.webp" alt="SQL" title="SQL" width="90px"  style="margin: 15px;" />
 
 </div>
-
-Thanks for visiting my profile!  
-💡 Let’s build something amazing together!
-
 ---
+#### Thanks for visiting my profile!  💡 Let’s build something amazing together!
+
+
