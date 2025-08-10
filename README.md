@@ -39,5 +39,19 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 
 ---
 
+## Technologies I Use
+
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img align="left" alt="HTML5" width="40px" src="./html-1.svg" />
+    <img align="left" alt="CSS3" width="40px" src="./css-3.svg" />
+    <img align="left" alt="JavaScript" width="40px" src="./javascript-1.svg" />
+    <img align="left" alt="React" width="40px" src="./react-2.svg" />
+    <img align="left" alt="Tailwind CSS" width="40px" src="./tailwind-svgrepo-com.svg" />
+    <img align="left" alt="Bootstrap" width="40px" src="./bootstrap-svgrepo-com.svg" />
+    <img align="left" alt="SCSS" width="40px" src="./sass_logo_sass_icon.png" />
+    <img align="left" alt="Framer Motion" width="40px" src="./Framer-Motion.png" />
+</div>
+
+
 Thanks for visiting my profile! Let's create something amazing together 🚀
 
