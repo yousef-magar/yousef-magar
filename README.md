@@ -50,8 +50,15 @@ I believe in blending creativity with logic, writing clean code, and continuousl
     <img align="left" alt="Bootstrap" width="40px" src="./bootstrap-svgrepo-com.svg" />
     <img align="left" alt="SCSS" width="40px" src="./sass_logo_sass_icon.png" />
     <img align="left" alt="Framer Motion" width="40px" src="./Framer-Motion.png" />
+  <img align="left" alt="Stastics" width="40px" src="./stas.png" />
+  <img align="left" alt="Charb" width="40px" src="./Csharp_Logo.png" />
+  <img align="left" alt="Microsoft Ex" width="40px" src="./Microsoft_Office.png" />
+  
+  <img align="left" alt="Next" width="40px" src="./Next.js.png" />
+  <img align="left" alt="Py" width="40px" src="./python.png" />
+  <img align="left" alt="sql" width="40px" src="./sql.webp" />
 </div>
 
-<br/>
+---
 Thanks for visiting my profile! Let's create something amazing together 🚀
 
