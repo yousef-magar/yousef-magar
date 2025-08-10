@@ -1,48 +1,72 @@
-# 👋 Hi, I'm Yousef Magar
+# Hi, I'm Yousef Magar 👋
 
 ### Front-End Developer & Aspiring Data Analyst  
-Building beautiful, interactive web apps & unlocking insights from data.
+Crafting engaging user experiences and unlocking insights through data.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm passionate about creating seamless user experiences and diving deep into data analysis to help businesses make smarter decisions. Skilled in React, Tailwind CSS, and Python, I blend creativity with logic to bring ideas to life.
+I'm Yousef Magar, a passionate front-end developer who loves turning ideas into beautiful, functional web applications. I specialize in building responsive, interactive interfaces using modern technologies like React and Tailwind CSS. Alongside development, I have a growing passion for data analysis — exploring data to uncover trends and support smart decisions.
+
+I believe in blending creativity with logic, writing clean code, and continuously learning new skills. Whether it’s animating a UI or analyzing a dataset, I bring enthusiasm and precision to every project.
 
 > _"They call us dreamers, but we're the ones who don’t sleep."_ 🌙
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack & Skills
 
-| Web Development            | Styling & Animations       | Data & Backend              | Tools & Platforms          |
-|---------------------------|---------------------------|----------------------------|---------------------------|
-| <img src="./html-1.svg" width="30" /> HTML5           | <img src="./sass_logo_sass_icon.png" width="30" /> SCSS/SASS       | <img src="./python.png" width="30" /> Python                  | <img src="./Microsoft_Office.png" width="30" /> Excel                 |
-| <img src="./css-3.svg" width="30" /> CSS3             | <img src="./tailwind-svgrepo-com.svg" width="30" /> Tailwind CSS  | <img src="./sql.webp" width="30" /> SQL                     | <img src="./stas.png" width="30" /> Statistics                     |
-| <img src="./javascript-1.svg" width="30" /> JavaScript| <img src="./Framer-Motion.png" width="30" /> Framer Motion        | <img src="./Csharp_Logo.png" width="30" /> C#                | <img src="./Next.js.png" width="30" /> Next.js                     |
-| <img src="./react-2.svg" width="30" /> React           | <img src="./bootstrap-svgrepo-com.svg" width="30" /> Bootstrap    |                            |                                                           |
+- **Languages & Frameworks:**  
+  HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS | Bootstrap | SCSS
 
----
+- **Tools & Libraries:**  
+  Framer Motion | Git & GitHub | Visual Studio Code
 
-## 🌱 Currently Learning
+- **Data Analysis:**  
+  Python (Pandas, NumPy, Matplotlib) | Excel & Google Sheets | Data Cleaning & Visualization | Currently learning SQL & Power BI
 
-- SQL & Power BI  
-- Advanced Data Visualization Techniques  
-- TypeScript & Next.js Server Components  
+- **Core Strengths:**  
+  Front-End Development | Responsive Design | UI Animations & Interactivity | Exploratory Data Analysis | Version Control
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 eng.usf.9.1@gmail.com  
-- 📞 +20 10 155 200 12  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📧 Email: eng.usf.9.1@gmail.com  
+- 📞 Phone: +20 10 155 200 12  
+- 🔗 LinkedIn: [Let's Connect](https://linkedin.com/in/yourprofile)
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+
+<img src="./html-1.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="./css-3.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="./javascript-1.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="./react-2.svg" alt="React" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./Framer-Motion.png" alt="Framer Motion" width="50" />&nbsp;&nbsp;&nbsp;
+
+<img src="./python.png" alt="Python" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./sql.webp" alt="SQL" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./stas.png" alt="Statistics" width="50" />&nbsp;&nbsp;&nbsp;
+
+<img src="./Csharp_Logo.png" alt="C#" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./Microsoft_Office.png" alt="Microsoft Excel" width="50" />&nbsp;&nbsp;&nbsp;
+<img src="./Next.js.png" alt="Next.js" width="70" />
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 Thanks for visiting my profile!  
-Let’s create something amazing together!
+### Thanks for visiting my profile!  
+💡 **Let’s build something amazing together!**
 
 </div>
