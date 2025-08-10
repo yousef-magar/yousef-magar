@@ -42,7 +42,7 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 
 ## 🧰 Tech Toolbox
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div justify-content: center style="display: flex; flex-wrap: wrap; gap: 40px;">
 
   <img src="./html-1.svg" alt="HTML5" title="HTML5" width="40px"  />
   <img src="./css-3.svg" alt="CSS3" title="CSS3" width="40px"/>
