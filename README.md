@@ -42,7 +42,6 @@ I believe in blending creativity with logic, writing clean code, and continuousl
 ## 🧰 Tech Toolbox
 
 <p align="center">
-
 <img src="./html-1.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
 <img src="./css-3.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
 <img src="./javascript-1.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
