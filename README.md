@@ -47,22 +47,7 @@ I believe in **writing clean, maintainable code**, blending creativity with prob
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-<img src="./html-1.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-<img src="./css-3.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-<img src="./javascript-1.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-<img src="./react-2.svg" alt="React" width="50" />&nbsp;&nbsp;
-<img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" width="50" />&nbsp;&nbsp;
-<img src="./Csharp_Logo.png" alt="C#" width="50" />&nbsp;&nbsp;
-<img src="./dotnet.png" alt=".NET Core" width="50" />&nbsp;&nbsp;
-<img src="./EF.png" alt="Entity Framework" width="50" />&nbsp;&nbsp;
-<img src="./sql.webp" alt="SQL Server" width="80" />&nbsp;&nbsp;
-<img src="./python.png" alt="Python" width="50" />&nbsp;&nbsp;
-<img src="./PowerBI.png" alt="Power BI" width="50" />&nbsp;&nbsp;
-<img src="./Framer-Motion.png" alt="Framer Motion" width="50" />&nbsp;&nbsp;
-<img src="./GitHub.png" alt="GitHub" width="50" />&nbsp;&nbsp;
-<img src="./Next.js.png" alt="Next.js" width="80" />
-</p>
+<p align="center"> <img src="./html-1.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp; <img src="./css-3.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp; <img src="./javascript-1.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp; <img src="./react-2.svg" alt="React" width="50" />&nbsp;&nbsp;&nbsp; <img src="./tailwind-svgrepo-com.svg" alt="Tailwind CSS" width="50" />&nbsp;&nbsp;&nbsp; <img src="./bootstrap-svgrepo-com.svg" alt="Bootstrap" width="50" />&nbsp;&nbsp;&nbsp; <img src="./sass_logo_sass_icon.png" alt="SCSS/SASS" width="50" />&nbsp;&nbsp;&nbsp; <img src="./Framer-Motion.png" alt="Framer Motion" width="50" />&nbsp;&nbsp;&nbsp; <img src="./python.png" alt="Python" width="50" />&nbsp;&nbsp;&nbsp; <img src="./sql.webp" alt="SQL" width="90" />&nbsp;&nbsp;&nbsp; <img src="./stas.png" alt="Statistics" width="50" />&nbsp;&nbsp;&nbsp; <img src="./Csharp_Logo.png" alt="C#" width="50" />&nbsp;&nbsp;&nbsp; <img src="./Microsoft_Office.png" alt="Microsoft Excel" width="50" />&nbsp;&nbsp;&nbsp; <img src="./Next.js.png" alt="Next.js" width="90" />&nbsp;&nbsp;&nbsp; <img src="./EF.png" alt="EF" width="50" /> </p>
 
 ---
 
@@ -73,8 +58,3 @@ I believe in **writing clean, maintainable code**, blending creativity with prob
 💡 **Let’s build something amazing together.**
 
 </div>
-
----
-
-هل تحب أظبطهولك بصيغة جاهزة للـ GitHub (يعني Markdown نظيف باللينكات والأيقونات كلها شغالة)؟
-ولا تحب أعمله بشكل بصري أكتر زي صفحة شخصية بسيطة (landing page) بنفس المحتوى؟
